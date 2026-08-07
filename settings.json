@@ -3,12 +3,12 @@
   "bot-account": {
     "username": "TugaSMP_BOT",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "TugaSMP_.aternos.me:20101",
     "port": 20101,
-    "version": "",
+    "version": "26.2",
     "try-creative": false
   },
   "position": {
